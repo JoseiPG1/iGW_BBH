@@ -24,3 +24,11 @@ State of the projec:
 - [ ] Third part, rotation binary black-hole systems.
 
 
+Because of the problems that I am having with the Julia code and its package version, I am
+doing the entire project in Python, therefore, I am starting from point zero. This is the
+To-do list 
+- [X] Write the computation of the waveform.
+- [X] Newtonian orbit model.
+- [ ] Relativistic orbit model.
+- [ ] Neural Networks orbit model.
+
