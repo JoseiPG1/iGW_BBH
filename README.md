@@ -18,17 +18,13 @@ The third part consist in extend the code to consider now rotating binary black-
 the Kerr metric. The idea is to yet again, consider two scenearios, the first one if the two masses
 are considerable different and if the two masses are similar.
 
-State of the projec:
-- [X] First part, extreme mass ratio.
-- [ ] Second part, a more general case with similar masses.
-- [ ] Third part, rotation binary black-hole systems.
+Julia code extreme mass ratio
+- [X] Newtonian model waveform
+- [X] Relativistic model waveform
+- [X] Neural Network waveform
 
-
-Because of the problems that I am having with the Julia code and its package version, I am
-doing the entire project in Python, therefore, I am starting from point zero. This is the
-To-do list 
-- [X] Write the computation of the waveform.
-- [X] Newtonian orbit model.
-- [ ] Relativistic orbit model.
-- [ ] Neural Networks orbit model.
+Python code extreme mass ratio
+- [X] Newtonian model waveform
+- [X] Relativistic model waveform
+- [X] Neural Network waveform
 
