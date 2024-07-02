@@ -18,6 +18,8 @@ The third part consist in extend the code to consider now rotating binary black-
 the Kerr metric. The idea is to yet again, consider two scenearios, the first one if the two masses
 are considerable different and if the two masses are similar.
 
+## First part of the project
+
 Julia code extreme mass ratio
 - [X] Newtonian model waveform
 - [X] Relativistic model waveform
@@ -27,4 +29,6 @@ Python code extreme mass ratio
 - [X] Newtonian model waveform
 - [X] Relativistic model waveform
 - [X] Neural Network waveform
+
+## Second part of the project
 
