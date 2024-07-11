@@ -25,10 +25,5 @@ Julia code extreme mass ratio
 - [X] Relativistic model waveform
 - [X] Neural Network waveform
 
-Python code extreme mass ratio
-- [X] Newtonian model waveform
-- [X] Relativistic model waveform
-- [X] Neural Network waveform
-
 ## Second part of the project
 
