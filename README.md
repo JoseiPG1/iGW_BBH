@@ -20,10 +20,16 @@ are considerable different and if the two masses are similar.
 
 ## First part of the project
 
-Julia code extreme mass ratio
-- [X] Newtonian model waveform
-- [X] Relativistic model waveform
-- [X] Neural Network waveform
+Julia code extreme mass ratio:
+- [X] Newtonian model waveform.
+- [X] Relativistic model waveform.
+- [X] Neural Network waveform.
 
 ## Second part of the project
+
+Julia code for:
+- [X] SXS0217 model.
+- [X] SXS1356 model.
+
+## Third part of the project
 
