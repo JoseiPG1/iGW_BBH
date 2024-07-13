@@ -20,16 +20,20 @@ are considerable different and if the two masses are similar.
 
 ## First part of the project
 
-Julia code extreme mass ratio:
+Julia code extreme mass ratio binary black-hole system:
 - [X] Newtonian model waveform.
 - [X] Relativistic model waveform.
 - [X] Neural Network waveform.
 
 ## Second part of the project
 
-Julia code for:
+Julia code for similar masses of a binary black-hole system:
 - [X] SXS0217 model.
 - [X] SXS1356 model.
 
 ## Third part of the project
+
+Julia code for the rotating binary black-hole system
+- [ ] Extreme mass ratio case
+- [ ] General case
 
